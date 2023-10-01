@@ -1,5 +1,4 @@
-# Graduation project
-# Safe Intelligent Transportation in Digital Cities
+# Safe Intelligent Transportation in Digital Cities (OT3A Graduation project)
 # Case
 - Transportation is a critical sector to any country as it acts as the  vessel for all other activities including individuals, enterprises, governmental, and commercial services. 
 - Key drainers of transportation systems are accidents caused by unsafe driving patterns and critical incidents that affect safety. For example, a traffic accident on a highway could result in a chain of accidents. This phenomenon has happened quite frequently over the past years. 
